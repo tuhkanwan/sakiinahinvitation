@@ -1,0 +1,19 @@
+{
+  "name": "Sakiinah Invitation - Undangan Digital",
+  "short_name": "Sakiinah Invitation",
+  "description": "Undangan digital modern, elegan, interaktif, dan mudah dibagikan.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f6ff",
+  "theme_color": "#6d4aff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/images/logo-sakiinah.png",
+      "sizes": "2048x835",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
